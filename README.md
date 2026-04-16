@@ -4,6 +4,7 @@ E-books collected according to [Milo Yip's](https://github.com/miloyip/game-prog
 [(<u>English</u>](game-programmer.png)[ | <u>简体中文</u>)](game-programmer-zh-cn.png)
 
 **Knowledge is meant to flow and be shared, as is the truth.**
+**** https://freecomputerbooks.com/compscGameProgrammingBooks.html#google_vignette ****
 
 ## 01.Computer Science
 
